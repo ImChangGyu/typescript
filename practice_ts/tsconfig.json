@@ -5,7 +5,7 @@
         "sourceMap": true
     },
     "include": [
-        "index.ts"
+        "practice_ts/index.ts"
     ],
     "exclude": [
         "node_modules"
