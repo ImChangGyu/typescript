@@ -1,0 +1,13 @@
+{
+  "name": "practice_ts",
+  "version": "1.0.0",
+  "description": "Learning Typescript by makin a Blockchain with it",
+  "main": "index.js",
+  "repository": "https://github.com/ImChangGyu/typescript",
+  "author": "ImChangGyu",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
